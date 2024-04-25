@@ -1,0 +1,26 @@
+[
+    {
+        "id":"AG",
+        "titulo": "AGENDAS",
+        "imagen": "./img/Agendas.png",       
+        "precio": 9500
+    },
+    {
+        "id": "BT",
+        "titulo": "BOTELLA",
+        "imagen": "./img/BotellaFrida.jpg",        
+        "precio": 5000
+    },
+    {
+        "id": "CM",
+        "titulo": "COMBO MATERO",
+        "imagen": "./img/Mates.jpg",       
+        "precio": 12700
+    },
+    {
+        "id": "VS",
+        "titulo": "VASO CON SORBETE", 
+        "imagen": "./img/Vasos.jpg",       
+        "precio": 5000
+    }
+]
